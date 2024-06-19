@@ -85,6 +85,10 @@
 			}
 		}
 
+		function checkWin(){
+			
+		}
+
 		$(function(){
 			$('.input-num').on('change', function(){
 				let num = $(this).val();
